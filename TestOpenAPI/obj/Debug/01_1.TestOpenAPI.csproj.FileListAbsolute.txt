@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\_01_1.TestOpenAPI.MainForm.resources
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\_01_1.TestOpenAPI.Properties.Resources.resources
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\01_1.TestOpenAPI.exe.config
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\01_1.TestOpenAPI.exe
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\01_1.TestOpenAPI.pdb
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.csproj.CopyComplete
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.exe
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\obj\Debug\01_1.TestOpenAPI.pdb
+C:\Users\user\Desktop\VS_Source\StudyWF\WindowForm\01_1.TestOpenAPI\bin\Debug\MetroFramework.Design.dll
